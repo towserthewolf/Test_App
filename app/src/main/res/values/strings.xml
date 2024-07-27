@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="enterbutton">Touch To Enter</string>
+    <string name="welcometext">hello and welcome to the app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
